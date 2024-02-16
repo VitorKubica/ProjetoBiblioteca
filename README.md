@@ -21,7 +21,7 @@ Este projeto é uma implementação de uma biblioteca virtual com uma API RESTfu
 
 
 ## Rotas da API
-Para acessar a API, utilize o seguinte endpoint base: `http://localhost:8080` (ou o host e porta configurados).
+Para acessar a API, utilize o seguinte endpoint base: `http://localhost:8080`.
 
 ### Livros
 - **GET /livros**: Retorna todos os livros cadastrados.
