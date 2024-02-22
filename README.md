@@ -5,9 +5,7 @@ Este projeto é uma implementação de uma biblioteca virtual com uma API RESTfu
 
 ## Tecnologias Utilizadas
 - **Linguagem de Programação**: Java
-- **Framework Web**: Spring Boot
-- **Banco de Dados**: MySQL (ou outro banco de dados suportado pelo Spring Data JPA)
-- **ORM (Object-Relational Mapping)**: Spring Data JPA
+- **Banco de Dados**: MySQL
 
 ## Instalação e Configuração
 1. Clone o repositório:
